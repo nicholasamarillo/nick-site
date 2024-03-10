@@ -1,0 +1,13 @@
+.custom-background{
+    background-color: #FEFBF6;
+}
+
+.custom-text{
+    font-family:"Comfortaa", sans-serif;
+    color: #8CB9BD;
+}
+
+.custom-img{
+    max-height: 400px;
+    width: auto;
+}
